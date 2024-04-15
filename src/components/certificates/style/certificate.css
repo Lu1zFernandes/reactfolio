@@ -78,6 +78,9 @@
 	.certificate-left-side {
 		display: none;
 	}
+	.certificate-description {
+		padding-right: 5px;
+	}
 	.certificate {
 		width: 90%;
 		margin-left: 0px;
