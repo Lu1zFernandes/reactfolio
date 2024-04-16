@@ -34,29 +34,30 @@
 	position: absolute;
 	font-size: 12px;
 	color: var(--secondary-color);
-	padding-top: 22px;
-	padding-left: 50px;
+
+	padding-top: 5px;
+	padding-left: 20px;
 }
 
 @media (max-width: 430px) {
 	.works {
-		width: 90%;
-		margin: 0 auto;
+		width: 90% !important;
+		margin: 0 auto !important;
 	}
 	.work-title {
-		font-size: 12px;
-		text-align: center;
+		font-size: 12px !important;
+		text-align: center !important;
 	}
 	.work-subtitle {
-		margin-top: 12px;
-		font-size: 12px;
-		text-align: center;
+		margin-top: 20px !important;
+		font-size: 12px !important;
+		padding-top: 12px !important;
 	}
 	.work {
-		width: 90%;
+		width: 90% !important;
 	}
 	.works-description {
-		display: flex;
+		display: flex !important;
 	}
 }
 
@@ -68,7 +69,7 @@
 		text-align: left;
 	}
 	.work-subtitle {
-		padding-left: 5%;
+		margin-top: 20px !important;
 	}
 	.work {
 		width: 100%;
@@ -79,12 +80,13 @@
 		width: 100%;
 	}
 	.work-title {
-		text-align: left;
 		font-size: 12px;
+
+		padding: 0 auto;
 	}
 	.work-subtitle {
-		font-size: 11px;
-		text-align: justify;
+		font-size: 11px !important;
+		margin: 20px 10px 0px 20px !important;
 	}
 
 	.work {

@@ -36,67 +36,34 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Projeto 1",
+			title: "SpaceX",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Um site inspirado na SpaceX, utilizando Sass, CSS, HTML 5 e Bootstrap.",
+			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg",
+			linkText: "Site",
+			link: "https://spacex-sooty.vercel.app/",
+			repoText: "Repositório",
+			repo: "https://github.com/Lu1zFernandes/spacex",
+		},
+		{
+			title: "Calculadora com JavaScript",
+			description:
+				"Uma calculadora simples e funcional usando apenas JavaScript, HTML e CSS.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://www.youtube.com/",
-			repoText: "View repo",
-			repo: "https://github.com/",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			repoText: "View repo",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "Site",
+			link: "https://lu1zfernandes.github.io/CalculatorJS/",
+			repoText: "Repositório",
+			repo: "https://github.com/Lu1zFernandes/CalculatorJS",
 		},
 		{
-			title: "Project 6",
+			title: "Wiki Sports",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-		{
-			title: "Project 7",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Uma wiki de esportes variados, usando apenas CSS e HTML, treninando a responsividade.",
+			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg",
+			linkText: "Site",
+			link: "https://lu1zfernandes.github.io/SportsWiki/",
+			repoText: "Repositório",
+			repo: "https://github.com/Lu1zFernandes/SportsWiki",
 		},
 	],
 };
