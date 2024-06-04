@@ -65,6 +65,36 @@ const INFO = {
 			repoText: "Repositório",
 			repo: "https://github.com/Lu1zFernandes/SportsWiki",
 		},
+		{
+			title: "Api de Pokemon",
+			description:
+				"Consumindo uma Api e a usando para a integração em um site de pokemons, feito com React.",
+			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+			linkText: "Site",
+			link: "https://pokemon-api-rose.vercel.app/",
+			repoText: "Repositório",
+			repo: "https://github.com/Lu1zFernandes/pokemon-api",
+		},
+		{
+			title: "Next Store",
+			description:
+				"Uma loja funcional e simples com produtos da Apple utilizando o Next.js.",
+			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
+			linkText: "Site",
+			link: "https://newteste-ten.vercel.app/",
+			repoText: "Repositório",
+			repo: "https://github.com/Lu1zFernandes/nextstore",
+		},
+		{
+			title: "React Stock",
+			description:
+				"Site para estocagem de itens e produtos, usando React e React Router.",
+			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+			linkText: "Site",
+			link: "https://exercicio-final.vercel.app/",
+			repoText: "Repositório",
+			repo: "https://github.com/Lu1zFernandes/ExercicioFinal",
+		},
 	],
 };
 
