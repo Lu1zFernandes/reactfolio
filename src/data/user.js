@@ -13,7 +13,7 @@ const INFO = {
 		number: "https://api.whatsapp.com/send/?phone=5516996392245&text&type=phone_number&app_absent=0",
 		location: "https://maps.app.goo.gl/L5ZpRLyCQm1mt26Y7",
 		completeCV:
-			"https://drive.google.com/uc?export=download&id=1aunxuhGlZdNjA0ku-JWeVoNK7HB3oh4o",
+			"https://drive.google.com/uc?export=download&id=1OV1qWn8HbwM9Kmis9Jmnrlzv4aHrqt2N",
 	},
 
 	homepage: {
